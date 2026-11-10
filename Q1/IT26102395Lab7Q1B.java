@@ -14,14 +14,14 @@ public class IT26102395Lab7Q1B{
          System.out.println("Enter subject mark 1:");
          double mark1=ok.nextDouble();
 
-         System.out.println("Enter subject mark 1:");
+         System.out.println("Enter subject mark 2:");
          double mark2=ok.nextDouble();
 
-         System.out.println("Enter subject mark 1:");
+         System.out.println("Enter subject mark 3:");
          double mark3=ok.nextDouble();
 
          
-         System.out.println("Enter subject mark 1:");
+         System.out.println("Enter subject mark 4:");
          double mark4=ok.nextDouble();
 
          double total=mark1+mark2+mark3+mark4;
